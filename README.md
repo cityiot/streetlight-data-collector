@@ -1,1 +1,3 @@
-# streetlight-data-collector
+# Street light data collector
+
+TODO: add usage instructions

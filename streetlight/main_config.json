@@ -1,0 +1,14 @@
+{
+    "create_subscriptions": false,
+    "data_file": "data_files.json",
+    "coordinate_file": "coordinates.json",
+    "api_file": "streetlight_api.json",
+    "update_time": "08:30",
+    "retry_wait_s": 300,
+    "max_fails": 5,
+    "store_data": true,
+    "fiware_service": "streetlight",
+    "fiware_servicepath": "/Tampere",
+    "orion_address": "<Orion API address>",
+    "quantumleap_address": "<QuantumLeap API address>"
+}

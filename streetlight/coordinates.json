@@ -1,0 +1,2801 @@
+[
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "N\u00e4sij\u00e4rvenkatu 9",
+    "coordinates": [
+      61.502723,
+      23.750286
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "",
+    "coordinates": [
+      61.498302,
+      23.726467
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "K\u00e4mmenniemenkatu 7",
+    "coordinates": [
+      61.629759,
+      23.838118
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Papusenkatu 15",
+    "coordinates": [
+      61.534126,
+      23.672483
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pehkusuonkatu 43",
+    "coordinates": [
+      61.464397,
+      23.841524
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hervannan Valtav\u00e4yl\u00e4 83",
+    "coordinates": [
+      61.463391,
+      23.843301
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lukonm\u00e4enkatu 11",
+    "coordinates": [
+      61.46602,
+      23.849023
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Elianderinkatu 1",
+    "coordinates": [
+      61.503093,
+      23.734265
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Timpurinkatu 28",
+    "coordinates": [
+      61.439965,
+      23.850981
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Teivaalantie 64",
+    "coordinates": [
+      61.530945,
+      23.65224
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kanavaraitti 2",
+    "coordinates": [
+      61.502475,
+      23.759146
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Aitoniementie 4",
+    "coordinates": [
+      61.55504,
+      23.84848
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Nikinv\u00e4yl\u00e4 43",
+    "coordinates": [
+      61.508007,
+      23.91913
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Rusthollinkatu 10",
+    "coordinates": [
+      61.518381,
+      23.931944
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Raholankatu 11",
+    "coordinates": [
+      61.501223,
+      23.6559
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Liisankatu 9",
+    "coordinates": [
+      61.499808,
+      23.794991
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Nuolialantie 23",
+    "coordinates": [
+      61.469999,
+      23.742034
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lemp\u00e4\u00e4l\u00e4ntie 78",
+    "coordinates": [
+      61.489317,
+      23.780154
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Jankanraitti 3",
+    "coordinates": [
+      61.490189,
+      23.845009
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Paavalinkuja 2",
+    "coordinates": [
+      61.493572,
+      23.616883
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Marjatankatu 16",
+    "coordinates": [
+      61.485304,
+      23.923279
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Myllypuronkatu 32",
+    "coordinates": [
+      61.517306,
+      23.578241
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lindforsinkatu 14",
+    "coordinates": [
+      61.450561,
+      23.847441
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Isoniemenkatu 27",
+    "coordinates": [
+      61.52832,
+      23.683359
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tanhuankatu 63",
+    "coordinates": [
+      61.491549,
+      23.863347
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tuomiokirkonkatu 20",
+    "coordinates": [
+      61.500507,
+      23.769238
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Irjalankuja 2",
+    "coordinates": [
+      61.496524,
+      23.85252
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Puutarhakatu 15",
+    "coordinates": [
+      61.499179,
+      23.754438
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pinninkatu 50",
+    "coordinates": [
+      61.499659,
+      23.778176
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Rantatie 31",
+    "coordinates": [
+      61.50501,
+      23.717592
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pihtisulunkatu 1",
+    "coordinates": [
+      61.503172,
+      23.574472
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hein\u00e4miehentie 15",
+    "coordinates": [
+      61.513124,
+      23.606867
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Talttatie 3",
+    "coordinates": [
+      61.473593,
+      23.848415
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pirjonkaivonkatu 2",
+    "coordinates": [
+      61.468129,
+      23.848225
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Aitoniementie 768",
+    "coordinates": [
+      61.55504,
+      23.84848
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hirviniementie 78",
+    "coordinates": [
+      61.538414,
+      23.854282
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Aitoniementie 266",
+    "coordinates": [
+      61.55504,
+      23.84848
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Aitolahdentie 124",
+    "coordinates": [
+      61.489056,
+      23.876773
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Rasulankatu 28",
+    "coordinates": [
+      61.479956,
+      23.913759
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hippoksenkatu 8",
+    "coordinates": [
+      61.499219,
+      23.818431
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Federleynkatu 52",
+    "coordinates": [
+      61.523196,
+      23.681885
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kalkunkatu 34",
+    "coordinates": [
+      61.495003,
+      23.580867
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Ikurintie 22",
+    "coordinates": [
+      61.517738,
+      23.596032
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pinninkatu 78",
+    "coordinates": [
+      61.499659,
+      23.778176
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kauppakatu 14",
+    "coordinates": [
+      61.497955,
+      23.753705
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pispalanharju 1",
+    "coordinates": [
+      61.50008,
+      23.721318
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Korvenkatu 46",
+    "coordinates": [
+      61.498663,
+      23.61582
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tahmelankatu 2",
+    "coordinates": [
+      61.500624,
+      23.71106
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kohmankaari 4",
+    "coordinates": [
+      61.50465,
+      23.634703
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lyhtykatu 1",
+    "coordinates": [
+      61.477561,
+      23.926298
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kusti Salan Katu 1",
+    "coordinates": [
+      61.445916,
+      23.872752
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hervannan Valtav\u00e4yl\u00e4 66",
+    "coordinates": [
+      61.463391,
+      23.843301
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kapeentie 1396",
+    "coordinates": [
+      61.762833,
+      23.846012
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Sudenkatu 17",
+    "coordinates": [
+      61.499505,
+      23.830596
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kuikankatu 2",
+    "coordinates": [
+      61.488912,
+      23.800962
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Marmorikatu 22",
+    "coordinates": [
+      61.455798,
+      23.906786
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kelohongankatu 24",
+    "coordinates": [
+      61.462672,
+      23.827308
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kurjentaival 15",
+    "coordinates": [
+      61.485987,
+      23.785166
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Koljontie 8",
+    "coordinates": [
+      61.507092,
+      23.787976
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Nikinv\u00e4yl\u00e4 15",
+    "coordinates": [
+      61.508007,
+      23.91913
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "N\u00e4sij\u00e4rvenkatu 11",
+    "coordinates": [
+      61.502723,
+      23.750286
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hevoshaankatu 23",
+    "coordinates": [
+      61.498551,
+      23.871697
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Velaatantie 298",
+    "coordinates": [
+      61.78555,
+      24.012963
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kuterintie 38",
+    "coordinates": [
+      61.700201,
+      23.815157
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Teiskon Kirkkotie 127",
+    "coordinates": [
+      61.697957,
+      23.964617
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Terhokuja 1",
+    "coordinates": [
+      61.450415,
+      23.75275
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "M\u00e4entakusenkatu 40",
+    "coordinates": [
+      61.496624,
+      23.885939
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "M\u00e4nnik\u00f6nkatu 9",
+    "coordinates": [
+      61.465173,
+      23.837933
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Viinikankatu 46",
+    "coordinates": [
+      61.490952,
+      23.781625
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Vasamamittarinkatu 2",
+    "coordinates": [
+      61.498689,
+      23.931357
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Vanha Kirkkotie 23",
+    "coordinates": [
+      61.498475,
+      23.629509
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Ristim\u00e4enkatu 39",
+    "coordinates": [
+      61.503753,
+      23.619879
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Viront\u00f6rm\u00e4nkatu 12",
+    "coordinates": [
+      61.50822,
+      23.605596
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lemp\u00e4\u00e4l\u00e4ntie 7",
+    "coordinates": [
+      61.489317,
+      23.780154
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Viitapohjantie 524",
+    "coordinates": [
+      61.627545,
+      23.916049
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Makkaraj\u00e4rvenkatu 9",
+    "coordinates": [
+      61.439475,
+      23.875598
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tiiliruukinkatu 3",
+    "coordinates": [
+      61.493613,
+      23.757136
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Veisunkatu 53",
+    "coordinates": [
+      61.473818,
+      23.813803
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lundelininpolku 2",
+    "coordinates": [
+      61.496243,
+      23.739909
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Multisillankatu 4",
+    "coordinates": [
+      61.440921,
+      23.744036
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Juvelankatu 9",
+    "coordinates": [
+      61.475737,
+      23.913682
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tammelankatu 27",
+    "coordinates": [
+      61.499668,
+      23.779103
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lapintie 15",
+    "coordinates": [
+      61.505352,
+      23.771627
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lielahdenkatu 2",
+    "coordinates": [
+      61.516634,
+      23.663657
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Toispuolisenkatu 6",
+    "coordinates": [
+      61.4907,
+      23.928989
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lemp\u00e4\u00e4l\u00e4ntie 22",
+    "coordinates": [
+      61.489317,
+      23.780154
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Myllypuronkatu 5",
+    "coordinates": [
+      61.519012,
+      23.642263
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Ketostenkatu 20",
+    "coordinates": [
+      61.501488,
+      23.638327
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kohmankaari 17",
+    "coordinates": [
+      61.505068,
+      23.632261
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hervannan Valtav\u00e4yl\u00e4 74",
+    "coordinates": [
+      61.463391,
+      23.843301
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Nestorinkuja 18",
+    "coordinates": [
+      61.46493,
+      23.846202
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lahdenper\u00e4nkatu 9",
+    "coordinates": [
+      61.476836,
+      23.764143
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Jokipohjantie 39",
+    "coordinates": [
+      61.479608,
+      23.798304
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Satakunnankatu 19",
+    "coordinates": [
+      61.500019,
+      23.751921
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Mikkolankatu 14",
+    "coordinates": [
+      61.484409,
+      23.912423
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Juvankatu 4",
+    "coordinates": [
+      61.476294,
+      23.873832
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Opiskelijankatu 22",
+    "coordinates": [
+      61.453715,
+      23.848257
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "V\u00e4in\u00f6l\u00e4nkatu 35",
+    "coordinates": [
+      61.501775,
+      23.783976
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lintulamminkatu 16",
+    "coordinates": [
+      61.528097,
+      23.667377
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Omenapolku 2",
+    "coordinates": [
+      61.501405,
+      23.65727
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Koulukatu 12",
+    "coordinates": [
+      61.492981,
+      23.748277
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Jankankatu 25",
+    "coordinates": [
+      61.488292,
+      23.859166
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Runkokatu 14",
+    "coordinates": [
+      61.518767,
+      23.601364
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kullervonkatu 7",
+    "coordinates": [
+      61.503314,
+      23.777676
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "K\u00e4pytie 3",
+    "coordinates": [
+      61.509962,
+      23.780678
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Ruovedenkatu 1",
+    "coordinates": [
+      61.453326,
+      23.836199
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tiilikatu 10",
+    "coordinates": [
+      61.497205,
+      23.83515
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "N\u00e4silinnankatu 32",
+    "coordinates": [
+      61.496055,
+      23.754531
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Orivedenkatu 20",
+    "coordinates": [
+      61.454851,
+      23.840403
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Toivonkatu 8",
+    "coordinates": [
+      61.46947,
+      23.733362
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hervannan Valtav\u00e4yl\u00e4 29",
+    "coordinates": [
+      61.463391,
+      23.843301
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kiveli\u00f6nkatu 20",
+    "coordinates": [
+      61.486062,
+      23.934561
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "H\u00e4meenkatu 26",
+    "coordinates": [
+      61.497472,
+      23.755336
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pispalan Valtatie 9",
+    "coordinates": [
+      61.502191,
+      23.719856
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "V\u00e4limaankatu 8",
+    "coordinates": [
+      61.506195,
+      23.774011
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kissanmaankatu 18",
+    "coordinates": [
+      61.502993,
+      23.81374
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Nivarinkatu 1",
+    "coordinates": [
+      61.52506,
+      23.95034
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pohjanmaantie 24",
+    "coordinates": [
+      61.507012,
+      23.695407
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Sammonkatu 30",
+    "coordinates": [
+      61.496671,
+      23.798759
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kalervonkatu 13",
+    "coordinates": [
+      61.490013,
+      23.917813
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tesomankuja 6",
+    "coordinates": [
+      61.50585,
+      23.625288
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lemp\u00e4\u00e4l\u00e4ntie 34",
+    "coordinates": [
+      61.489317,
+      23.780154
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hatanp\u00e4\u00e4n Valtatie 39",
+    "coordinates": [
+      61.483568,
+      23.762252
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tarastenj\u00e4rventie 26",
+    "coordinates": [
+      61.539127,
+      23.974555
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Haiharankatu 18",
+    "coordinates": [
+      61.471489,
+      23.885698
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Ylioppilaankatu 4",
+    "coordinates": [
+      61.44715,
+      23.833022
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kuokkamaantie 24",
+    "coordinates": [
+      61.482282,
+      23.776472
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Aitolahdentie 86",
+    "coordinates": [
+      61.489056,
+      23.876773
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kurpantie 22",
+    "coordinates": [
+      61.491666,
+      23.802997
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Leinolankatu 70",
+    "coordinates": [
+      61.490108,
+      23.877681
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Sammonkatu 6",
+    "coordinates": [
+      61.493045,
+      23.818482
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Luhtaankatu 12",
+    "coordinates": [
+      61.496833,
+      23.870489
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Vihiojantie 32",
+    "coordinates": [
+      61.476067,
+      23.792928
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kyl\u00e4ojankatu 14",
+    "coordinates": [
+      61.486328,
+      23.845659
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tohlopinranta 21",
+    "coordinates": [
+      61.508378,
+      23.664686
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Nikinkuja 8",
+    "coordinates": [
+      61.506373,
+      23.910873
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "K\u00e4ss\u00e4l\u00e4nkatu 20",
+    "coordinates": [
+      61.486837,
+      23.863875
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tammelankatu 3",
+    "coordinates": [
+      61.499668,
+      23.779103
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tampellan Esplanadi 8",
+    "coordinates": [
+      61.505602,
+      23.765853
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Rauhaniementie 24",
+    "coordinates": [
+      61.512656,
+      23.781443
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lepp\u00e4stensuonkatu",
+    "coordinates": [
+      61.451389,
+      23.775862
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Sepp\u00e4l\u00e4nvuorentie 9",
+    "coordinates": [
+      61.761129,
+      23.867038
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Insin\u00f6\u00f6rinkatu 56",
+    "coordinates": [
+      61.458543,
+      23.846528
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kolunkatu 3",
+    "coordinates": [
+      61.463879,
+      23.890613
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Iidesranta 65",
+    "coordinates": [
+      61.491179,
+      23.790357
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Rongankatu 15",
+    "coordinates": [
+      61.501149,
+      23.764094
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tahmelan Viertotie 14",
+    "coordinates": [
+      61.500688,
+      23.712586
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Maustekatu 20",
+    "coordinates": [
+      61.46462,
+      23.910081
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "M\u00e4entakusenkatu 12",
+    "coordinates": [
+      61.496624,
+      23.885939
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Mustanlahdenkatu 21",
+    "coordinates": [
+      61.500105,
+      23.749503
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "N\u00e4sij\u00e4rvenkatu 6",
+    "coordinates": [
+      61.502723,
+      23.750286
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Moottorikeskuksentie 7",
+    "coordinates": [
+      61.7665,
+      24.059843
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Nirvansuonkatu 16",
+    "coordinates": [
+      61.463929,
+      23.787484
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Sarankulmankatu 10",
+    "coordinates": [
+      61.462975,
+      23.754926
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Haavistonkatu 1",
+    "coordinates": [
+      61.626875,
+      23.830847
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "P\u00f6rkinvainiontie 1",
+    "coordinates": [
+      61.697649,
+      23.815568
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Soraharjunkatu 49",
+    "coordinates": [
+      61.512234,
+      23.661009
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pispalan Valtatie 47",
+    "coordinates": [
+      61.505071,
+      23.708395
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Paloniityntie 35",
+    "coordinates": [
+      61.51193,
+      23.937863
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Uittotunnelinkatu 4",
+    "coordinates": [
+      61.505313,
+      23.699161
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kotikatu 6",
+    "coordinates": [
+      61.476038,
+      23.846442
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Iivantam\u00e4enkatu 8",
+    "coordinates": [
+      61.4871,
+      23.831972
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Satakunnankatu 65",
+    "coordinates": [
+      61.500139,
+      23.751431
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "\u00c4ij\u00e4nahteentie 27",
+    "coordinates": [
+      61.524267,
+      23.629953
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "V\u00e4in\u00f6l\u00e4nkatu 14",
+    "coordinates": [
+      61.501775,
+      23.783976
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Sukkavartaankatu 1",
+    "coordinates": [
+      61.503255,
+      23.768053
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Matinkatu 19",
+    "coordinates": [
+      61.46933,
+      23.73859
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Voionmaankatu 42",
+    "coordinates": [
+      61.498225,
+      23.645249
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pyynikintie 13",
+    "coordinates": [
+      61.493718,
+      23.731166
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pispalan Valtatie 134",
+    "coordinates": [
+      61.507813,
+      23.665752
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Muroleenkatu 10",
+    "coordinates": [
+      61.452706,
+      23.83391
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Teiskontie 38",
+    "coordinates": [
+      61.503185,
+      23.862379
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lentokent\u00e4nkatu 57",
+    "coordinates": [
+      61.468312,
+      23.756531
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Salhojankatu",
+    "coordinates": [
+      61.497461,
+      23.785941
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Vaajakatu 1",
+    "coordinates": [
+      61.455053,
+      23.856295
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Vesiroineenkatu 15",
+    "coordinates": [
+      61.451431,
+      23.897361
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Levonm\u00e4enkatu 4",
+    "coordinates": [
+      61.467841,
+      23.904453
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hatanp\u00e4\u00e4n Valtatie 31",
+    "coordinates": [
+      61.483022,
+      23.762311
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Vasaratie 37",
+    "coordinates": [
+      61.472746,
+      23.855413
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Ristaniitynkatu 16",
+    "coordinates": [
+      61.497506,
+      23.588847
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hennerinkatu 1",
+    "coordinates": [
+      61.50726,
+      23.690235
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Ilmarinkatu 37",
+    "coordinates": [
+      61.502656,
+      23.795513
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hatanp\u00e4\u00e4n Puistokuja 7",
+    "coordinates": [
+      61.483487,
+      23.761986
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Ruokom\u00e4enkatu 19",
+    "coordinates": [
+      61.449327,
+      23.762243
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Keskuojankatu 1",
+    "coordinates": [
+      61.460379,
+      23.734868
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pukinekatu 2",
+    "coordinates": [
+      61.482645,
+      23.904606
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Satakunnankatu 9",
+    "coordinates": [
+      61.500139,
+      23.751431
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kaukaniemenkatu 24",
+    "coordinates": [
+      61.471461,
+      23.916151
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Juoksuhaudankatu 2",
+    "coordinates": [
+      61.498249,
+      23.599394
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lavoniuksenkatu 2",
+    "coordinates": [
+      61.511193,
+      23.774563
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Mikropolku 4",
+    "coordinates": [
+      61.444613,
+      23.846024
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Nekalantie 4",
+    "coordinates": [
+      61.489469,
+      23.781759
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Insin\u00f6\u00f6rinkatu 100",
+    "coordinates": [
+      61.458543,
+      23.846528
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kyl\u00e4keinunkatu 19",
+    "coordinates": [
+      61.472962,
+      23.831938
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "H\u00e4meenpuisto 35",
+    "coordinates": [
+      61.495407,
+      23.753436
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Keskustori 10",
+    "coordinates": [
+      61.497301,
+      23.761568
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tuomiokirkonkatu 40",
+    "coordinates": [
+      61.502899,
+      23.768711
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Koivistontie 46",
+    "coordinates": [
+      61.472039,
+      23.77456
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Vuolteentori 6",
+    "coordinates": [
+      61.495774,
+      23.765528
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "H\u00e4meenkatu 1",
+    "coordinates": [
+      61.498078,
+      23.771569
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Irjalankatu 4",
+    "coordinates": [
+      61.49374,
+      23.847408
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Aaltosenkatu 51",
+    "coordinates": [
+      61.501713,
+      23.781125
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Isoahonkatu 14",
+    "coordinates": [
+      61.524372,
+      23.639112
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lemmink\u00e4isenkatu 8",
+    "coordinates": [
+      61.496385,
+      23.809769
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "V\u00e4rj\u00e4rinkuja 2",
+    "coordinates": [
+      61.49735,
+      23.762597
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kuntokatu 3",
+    "coordinates": [
+      61.504315,
+      23.808858
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kyt\u00f6maankatu 4",
+    "coordinates": [
+      61.454783,
+      23.870183
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tohlopinkatu 3",
+    "coordinates": [
+      61.511465,
+      23.630303
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lielahdenkatu 39",
+    "coordinates": [
+      61.514807,
+      23.663207
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pispalan Valtatie 74",
+    "coordinates": [
+      61.504729,
+      23.712427
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hatanp\u00e4\u00e4n Valtatie 2",
+    "coordinates": [
+      61.497413,
+      23.766413
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Isoniemenkatu 58",
+    "coordinates": [
+      61.52832,
+      23.683359
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kortteentie 11",
+    "coordinates": [
+      61.483209,
+      23.779334
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Teekkarinkatu 19",
+    "coordinates": [
+      61.44533,
+      23.842739
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Luhtaankartanontie 24",
+    "coordinates": [
+      61.519855,
+      23.892666
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Mariankatu 25",
+    "coordinates": [
+      61.501441,
+      23.743276
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Messukyl\u00e4nkatu",
+    "coordinates": [
+      61.4789,
+      23.862745
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Ikurintie 61",
+    "coordinates": [
+      61.512139,
+      23.595367
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pohtolankatu 23",
+    "coordinates": [
+      61.525433,
+      23.677959
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Koljontie 52",
+    "coordinates": [
+      61.507092,
+      23.787976
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kaupinkatu 20",
+    "coordinates": [
+      61.505283,
+      23.793338
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Aarikkalankatu 3",
+    "coordinates": [
+      61.490498,
+      23.831631
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Haukiluomantie 45",
+    "coordinates": [
+      61.514201,
+      23.586294
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Sulkavuorenkatu 14",
+    "coordinates": [
+      61.468345,
+      23.781292
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Laalahdenkatu 32",
+    "coordinates": [
+      61.503023,
+      23.841447
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hallilantie 29",
+    "coordinates": [
+      61.476753,
+      23.826975
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Irjalankatu 56",
+    "coordinates": [
+      61.501936,
+      23.859869
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hatanp\u00e4\u00e4n Valtatie 16",
+    "coordinates": [
+      61.49346,
+      23.771738
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Jussilankatu 9",
+    "coordinates": [
+      61.490026,
+      23.878682
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Vastarannankatu 28",
+    "coordinates": [
+      61.52825,
+      23.94514
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Venekatu 1",
+    "coordinates": [
+      61.529573,
+      23.722234
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kortelahdenkatu 17",
+    "coordinates": [
+      61.497578,
+      23.746784
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "P\u00e4iv\u00e4l\u00e4isentie 3",
+    "coordinates": [
+      61.478619,
+      23.808306
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pitk\u00e4niitynkatu 3",
+    "coordinates": [
+      61.461051,
+      23.899041
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Moottorikeskuksentie 232",
+    "coordinates": [
+      61.7665,
+      24.059843
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Keskustori 7",
+    "coordinates": [
+      61.497301,
+      23.761568
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kivikirkontie 2",
+    "coordinates": [
+      61.484811,
+      23.842217
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "P\u00e4ttiniemenkatu 20",
+    "coordinates": [
+      61.503071,
+      23.690149
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Yli-huikkaantie 58",
+    "coordinates": [
+      61.499553,
+      23.835444
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Ratinan Rantatie 2",
+    "coordinates": [
+      61.490538,
+      23.763197
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Etel\u00e4-arolan Tie 167",
+    "coordinates": [
+      61.749056,
+      23.90443
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Velaatantie 469",
+    "coordinates": [
+      61.78555,
+      24.012963
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Juvankatu 24",
+    "coordinates": [
+      61.471989,
+      23.871017
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Sammon Valtatie 77",
+    "coordinates": [
+      61.488456,
+      23.874386
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Keski-hankkion Katu 45",
+    "coordinates": [
+      61.479067,
+      23.874696
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Patam\u00e4enkatu 4",
+    "coordinates": [
+      61.45692,
+      23.739692
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Ilmattarenkatu 13",
+    "coordinates": [
+      61.486933,
+      23.923821
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Per\u00e4korvenkatu 16",
+    "coordinates": [
+      61.516114,
+      23.618724
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Simolankatu 33",
+    "coordinates": [
+      61.497849,
+      23.660786
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Velaatantie 654",
+    "coordinates": [
+      61.78555,
+      24.012963
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kumpulantie 13",
+    "coordinates": [
+      61.512741,
+      23.933882
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Peurankallionkatu 4",
+    "coordinates": [
+      61.500495,
+      23.735313
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "K\u00e4r\u00e4j\u00e4t\u00f6rm\u00e4 1",
+    "coordinates": [
+      61.512384,
+      23.619642
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "H\u00e4meenkatu 14",
+    "coordinates": [
+      61.498283,
+      23.765939
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Finninm\u00e4enkatu 24",
+    "coordinates": [
+      61.46503,
+      23.858912
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Eerolansuorantie 359",
+    "coordinates": [
+      61.562898,
+      23.907432
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Voimakatu 8",
+    "coordinates": [
+      61.490851,
+      23.767403
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Viitapohjantie 131",
+    "coordinates": [
+      61.627545,
+      23.916049
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Keernakatu 1",
+    "coordinates": [
+      61.505036,
+      23.759215
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Niemikatu 8",
+    "coordinates": [
+      61.500767,
+      23.741325
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Vilusentie 48",
+    "coordinates": [
+      61.479611,
+      23.856929
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kuorannantie 511",
+    "coordinates": [
+      61.687479,
+      23.83773
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Valssipadonraitti 1",
+    "coordinates": [
+      61.500688,
+      23.763991
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Orpolankuja 3",
+    "coordinates": [
+      61.468708,
+      23.746156
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Viront\u00f6rm\u00e4nkatu 6",
+    "coordinates": [
+      61.50822,
+      23.605596
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Siltasavontie 4",
+    "coordinates": [
+      61.695117,
+      24.038828
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Pellervonkatu 3",
+    "coordinates": [
+      61.497383,
+      23.810296
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Yli-huikkaantie 37",
+    "coordinates": [
+      61.499553,
+      23.835444
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hepolamminkatu 27",
+    "coordinates": [
+      61.458468,
+      23.849961
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Satakunnankatu 29",
+    "coordinates": [
+      61.500119,
+      23.752627
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Jaakonm\u00e4enkatu 1",
+    "coordinates": [
+      61.503446,
+      23.844489
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hallilantie 64",
+    "coordinates": [
+      61.476753,
+      23.826975
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Soirokatu 1",
+    "coordinates": [
+      61.526912,
+      23.695018
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Lielahdenkatu 29",
+    "coordinates": [
+      61.514807,
+      23.663207
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kauhakorvenkatu 15",
+    "coordinates": [
+      61.453281,
+      23.878313
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Possilanraitti 51",
+    "coordinates": [
+      61.528226,
+      23.675721
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tuomiokirkonkatu 32",
+    "coordinates": [
+      61.497523,
+      23.770283
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kitiniitynkatu 10",
+    "coordinates": [
+      61.443196,
+      23.751343
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Ahlmanintie 54",
+    "coordinates": [
+      61.482789,
+      23.789349
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Takojankatu 13",
+    "coordinates": [
+      61.494994,
+      23.806767
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Punaladontie 11",
+    "coordinates": [
+      61.472116,
+      23.777853
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Veisunkatu 20",
+    "coordinates": [
+      61.466556,
+      23.800108
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kartanonkatu 11",
+    "coordinates": [
+      61.473468,
+      23.771307
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Teivaalantie 4",
+    "coordinates": [
+      61.530945,
+      23.65224
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Varvarinkaari 9",
+    "coordinates": [
+      61.434626,
+      23.753164
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Opiskelijankatu 38",
+    "coordinates": [
+      61.450062,
+      23.832118
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Hyllil\u00e4nkatu 2",
+    "coordinates": [
+      61.476835,
+      23.89802
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tasanteenkatu 33",
+    "coordinates": [
+      61.519213,
+      23.924522
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Vaakonkatu 20",
+    "coordinates": [
+      61.506176,
+      23.676064
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Varppikatu 9",
+    "coordinates": [
+      61.527917,
+      23.717544
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kapeentie 2",
+    "coordinates": [
+      61.762833,
+      23.846012
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kannistonkatu 4",
+    "coordinates": [
+      61.470084,
+      23.756073
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kapeentie 126",
+    "coordinates": [
+      61.762833,
+      23.846012
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Viklanpolku 5",
+    "coordinates": [
+      61.492742,
+      23.805784
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Suonsivunkatu 1",
+    "coordinates": [
+      61.521876,
+      23.643917
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Haaralammenpolku 10",
+    "coordinates": [
+      61.520431,
+      23.639186
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tuomikuja 2",
+    "coordinates": [
+      61.474318,
+      23.759372
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kalevan Puistotie 8",
+    "coordinates": [
+      61.506739,
+      23.786067
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kytt\u00e4l\u00e4nkatu 8",
+    "coordinates": [
+      61.499393,
+      23.768469
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kekkosenkatu",
+    "coordinates": [
+      61.507856,
+      23.769625
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Kaupinpuistonkatu 6",
+    "coordinates": [
+      61.513198,
+      23.806699
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Opiskelijankatu 4",
+    "coordinates": [
+      61.453715,
+      23.848257
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Sellukatu 12",
+    "coordinates": [
+      61.515739,
+      23.673625
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "N\u00e4k\u00f6tornintie 67",
+    "coordinates": [
+      61.494257,
+      23.737398
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Paasikiventie 53",
+    "coordinates": [
+      61.506197,
+      23.714557
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Porrassalmenkuja 6",
+    "coordinates": [
+      61.531513,
+      23.698676
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "H\u00e4meenpuisto 42",
+    "coordinates": [
+      61.492872,
+      23.752794
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Renginkatu 14",
+    "coordinates": [
+      61.476281,
+      23.815872
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Valmetinkatu 5",
+    "coordinates": [
+      61.472921,
+      23.726288
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Tammelan Puistokatu 7",
+    "coordinates": [
+      61.504352,
+      23.779492
+    ]
+  },
+  {
+    "country": "FI",
+    "city": "Tampere",
+    "address": "Myllypuronkatu 29",
+    "coordinates": [
+      61.519012,
+      23.642263
+    ]
+  }
+]

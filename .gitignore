@@ -1,0 +1,31 @@
+# Don't include the CSV-files
+*.csv
+
+# Don't include files created by python
+*__pycache__*
+
+# Don't include API address and keys
+*streetlight_api.json
+
+# Don't include the json file containing the filenames for the stored data
+*data_files.json
+
+# Don't include the json files that have stored data
+*streetlight/illuminance_*.json
+*streetlight/doorsensor*.json
+*streetlight/electricity_*.json
+
+# Don't include the street light data fetcher logs
+*streetlight/screenlog.0
+
+# Don't include the 7z-packed copy of the stored data
+*streetlight/*.7z
+
+# Don't include extra docker-compose file and its depencies
+docker-compose-streetlight-start.yml
+streetlight/Dockerfile-start
+streetlight/main_config_start.json
+streetlight/data_files_start.json
+
+# Don't include explicitly downloaded Python packages
+streetlight/packages/*

@@ -1,0 +1,20 @@
+{
+    "host": "<host address>",
+    "header_attr": "<api key header name>",
+    "api_key": "<api key>",
+    "illuminance_apis": [
+        "<api path names for illuminance data>",
+        "<example: 'light-values/v1?begin={begin:}&end={end:}'>"
+    ],
+    "electricity_apis": [
+        "<api path names for street light electricity data>",
+        "<example: 'electricity-values/v1?begin={begin:}&end={end:}'>"
+    ],
+    "doorsensor_apis": [
+        "<api path names for door sensor data>",
+        "<example: 'doorsensor-values/v1?begin={begin:}&end={end:}'>"
+    ],
+    "fiware_apikey": "<apikey for the FIWARE Orion API>",
+    "fiware_platform_key": "<platform key to be used in Orion notifications>",
+    "fiware_notification_target": "<address for the Orion notifications>"
+}

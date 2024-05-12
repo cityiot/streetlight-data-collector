@@ -1,0 +1,33 @@
+# Copyright 2019 Tampere University
+# This software was developed as a part of the CityIoT project: https://www.cityiot.fi/english
+# This source code is licensed under the 3-clause BSD license. See license.txt in the repository root directory.
+# Author(s): Ville Heikkilä <ville.heikkila@tuni.fi>
+
+version: '3.5'
+
+services:
+
+  streetlight:
+    build:
+      context: ./streetlight
+      dockerfile: Dockerfile-clean
+    image: tampere_streetlight:1.1.3
+    container_name: streetlight
+    restart: always
+    volumes:
+      - streetlight_data:/data
+      - streetlight_fetcher_data:/streetlight
+    networks:
+      - streetlight_network
+
+volumes:
+  streetlight_data:
+    external: true
+    name: streetlight_data
+  streetlight_fetcher_data:
+    external: true
+    name: streetlight_fetcher_data
+
+networks:
+  streetlight_network:
+    name: streetlight

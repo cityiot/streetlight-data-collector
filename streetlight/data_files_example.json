@@ -1,0 +1,11 @@
+{
+    "illumination_files": [
+        "<list of files containing illuminance data>"
+    ],
+    "electricity_files": [
+        "<list of files containing electricity data>"
+    ],
+    "doorsensor_files": [
+        "<list of file containing door sensor data>"
+    ]
+}
